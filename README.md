@@ -5,7 +5,7 @@
 <img width="999" height="708" alt="Screenshot 2026-06-02 015942" src="https://github.com/user-attachments/assets/61e7b86d-225e-4b90-a224-be88fa290f55" />
 <img width="1136" height="534" alt="Screenshot 2026-06-02 002628" src="https://github.com/user-attachments/assets/06766af5-67b3-41ba-9e5f-e501fba3f8ec" />
 
-Features: 
+### Features: 
 
 - EC11 Rotary Encoder - For Volume, Brightness etc
 - Oled screen -  To play gifs and notifications
@@ -22,7 +22,7 @@ Features:
 <img width="792" height="837" alt="image" src="https://github.com/user-attachments/assets/8454c9e9-8db3-4d7b-8583-b0f1dd426a29" />
 
 ### Case 
-- Bottom
+## Bottom
 <img width="1237" height="700" alt="image" src="https://github.com/user-attachments/assets/dbb406da-46c9-4a8d-9146-4d4e36156a85" />
 <img width="994" height="539" alt="image" src="https://github.com/user-attachments/assets/7f1c536a-bdd8-47e0-b014-07650cc2035d" />
 
@@ -31,13 +31,13 @@ Features:
 <img width="1130" height="640" alt="image" src="https://github.com/user-attachments/assets/f73b9540-0f2c-439f-bf08-f03e50e07239" />
 
 ### 3d view of all parts together
--PCB
+## PCB
 <img width="816" height="800" alt="Screenshot 2026-06-01 163207" src="https://github.com/user-attachments/assets/50a1a312-6afe-4021-a7ef-912e8529dd1f" />
 <img width="693" height="806" alt="Screenshot 2026-06-01 163757" src="https://github.com/user-attachments/assets/e2444550-5162-4ee1-aa39-08720a3d9c6c" />
 <img width="895" height="879" alt="Screenshot 2026-06-01 163143" src="https://github.com/user-attachments/assets/b93c541d-4456-48c2-ace6-3dc0cecaa1ea" />
 
 
--Case
+## Case
 <img width="3300" height="2550" alt="28c2eecb-6e06-4444-9a95-d7229e4e8b97" src="https://github.com/user-attachments/assets/c677a103-7605-4cb2-b1a6-996a58bbc383" />
 <img width="3300" height="2550" alt="4a271fa2-b142-48ca-af95-737023e7ab95" src="https://github.com/user-attachments/assets/bcc674e8-61df-4794-b8ad-13deddf86d04" />
 <img width="3300" height="2550" alt="3cf05e57-8130-4242-a73c-b56f70226c04" src="https://github.com/user-attachments/assets/735dc3ed-d139-488e-87cc-8aead1692936" />
