@@ -52,15 +52,17 @@ just download all the files order all the parts and then assemble everything and
 
 
 ## BOM
-Item,Description,Quantity,URL,Total Price(inr),Total Price (USD)
-Raspberry Pi Pico,MCU of Macropad,1,https://www.amazon.in/dp/B08WPNM7JB,"1,009",10.6
-0.91 inch Blue OLED,Oled Display,1,https://www.amazon.in/Robocraze-0-91-inch-Blue-Display/dp/B0D6YYLPKK/ref=sr_1_30?sr=8-30,326,3.42
-EC11 10K Rotary Encoder,Rotary Encoder,1,https://www.amazon.in/CentIoT-Encoder-Digital-Potentiometer-Control/dp/B0888RWNM1/ref=sr_1_1_pp?sr=8-1,172,1.8
-Gateron EF Cedar,Switches,1,https://neomacro.in/products/gateron-ef-cedar,280,2.94
-wires,"wires, we need to connect RE and OLED",1,https://www.amazon.in/Serplex%C2%AE-Breadboard-Connections-Assortment-Prototyping/dp/B0DR8W4N3Y/ref=sr_1_7?sr=8-7,455,4.77
-PCB,Printer Circuit Board,5,N/A,"1,199",12.58
-Keycaps,Keycaps to put on top of switches,9,Self Sourced ,N/A,N/A
-Case,To put eveything together ,1,Print-Legion,N/A,N/A
+| Item | Description | Quantity | URL | Total Price (INR) | Total Price (USD) |
+|------|-------------|----------|-----|-------------------|-------------------|
+| Raspberry Pi Pico | MCU of Macropad | 1 | [Link](https://www.amazon.in/dp/B08WPNM7JB) | 1,009 | 10.6 |
+| 0.91 inch Blue OLED | Oled Display | 1 | [Link](https://www.amazon.in/Robocraze-0-91-inch-Blue-Display/dp/B0D6YYLPKK/ref=sr_1_30?sr=8-30) | 326 | 3.42 |
+| EC11 10K Rotary Encoder | Rotary Encoder | 1 | [Link](https://www.amazon.in/CentIoT-Encoder-Digital-Potentiometer-Control/dp/B0888RWNM1/ref=sr_1_1_pp?sr=8-1) | 172 | 1.8 |
+| Gateron EF Cedar | Switches | 1 | [Link](https://www.neomacro.in/products/gateron-ef-cedar) | 280 | 2.94 |
+| Wires | Wires, we need to connect RE and OLED | 1 | [Link](https://www.amazon.in/Serplex%C2%AE-Breadboard-Connections-Assortment-Prototyping/dp/B0DR8W4N3Y/ref=sr_1_7?sr=8-7) | 455 | 4.77 |
+| PCB | Printer Circuit Board | 5 | N/A | 1,199 | 12.58 |
+| Keycaps | Keycaps to put on top of switches | 9 | Self Sourced | N/A | N/A |
+| Case | To put everything together | 1 | Print-Legion | N/A | N/A |
+| | | | **Total Cost:** | **3,441** | **36.11** |
 
 Total cost comes out to be 3,441 INR, 36.11 USD in total
 I'm asking for 40 dollars due to dollar market trend and other issues! 
