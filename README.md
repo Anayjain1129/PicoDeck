@@ -39,7 +39,22 @@
 
 ## Case
 <img width="3300" height="2550" alt="28c2eecb-6e06-4444-9a95-d7229e4e8b97" src="https://github.com/user-attachments/assets/c677a103-7605-4cb2-b1a6-996a58bbc383" />
-<img width="3300" height="2550" alt="4a271fa2-b142-48ca-af95-737023e7ab95" src="https://github.com/user-attachments/assets/bcc674e8-61df-4794-b8ad-13deddf86d04" />
+<img width="3300" height="2550" alt="4a271fa2-b142-48ca-af95-737023e7ab95" src="https://github.com/user-attachments/assets/bcc674e8-61df-4794-b8ad-13deddf86d04" />\
 <img width="3300" height="2550" alt="3cf05e57-8130-4242-a73c-b56f70226c04" src="https://github.com/user-attachments/assets/735dc3ed-d139-488e-87cc-8aead1692936" />
 <img width="1074" height="748" alt="Screenshot 2026-06-02 002635" src="https://github.com/user-attachments/assets/138ca130-9aa1-413e-a783-1244f6e24129" />
 <img width="373" height="567" alt="Screenshot 2026-06-01 233207" src="https://github.com/user-attachments/assets/fd07242e-b892-4a79-ba57-233fd21ba779" />
+
+
+## BOM
+Item,Description,Quantity,URL,Total Price(inr),Total Price (USD)
+Raspberry Pi Pico,MCU of Macropad,1,https://www.amazon.in/dp/B08WPNM7JB,"1,009",10.6
+0.91 inch Blue OLED,Oled Display,1,https://www.amazon.in/Robocraze-0-91-inch-Blue-Display/dp/B0D6YYLPKK/ref=sr_1_30?sr=8-30,326,3.42
+EC11 10K Rotary Encoder,Rotary Encoder,1,https://www.amazon.in/CentIoT-Encoder-Digital-Potentiometer-Control/dp/B0888RWNM1/ref=sr_1_1_pp?sr=8-1,172,1.8
+Gateron EF Cedar,Switches,1,https://neomacro.in/products/gateron-ef-cedar,280,2.94
+wires,"wires, we need to connect RE and OLED",1,https://www.amazon.in/Serplex%C2%AE-Breadboard-Connections-Assortment-Prototyping/dp/B0DR8W4N3Y/ref=sr_1_7?sr=8-7,455,4.77
+PCB,Printer Circuit Board,5,N/A,"1,199",12.58
+Keycaps,Keycaps to put on top of switches,9,Self Sourced ,N/A,N/A
+Case,To put eveything together ,1,Print-Legion,N/A,N/A
+
+Total cost comes out to be 3,441 INR, 36.11 USD in total
+I'm asking for 40 dollars due to dollar market trend and other issues! 
