@@ -15,6 +15,12 @@
 - QMK firmware
 - RGB backlit 
 
+### Why did i made this?
+I made this because i have 60% keyboard and it makes things hard to do and i needed a macropad and this one have a RE which will make things easy like volume control and brightness control.
+
+### How to use/build this?
+just download all the files order all the parts and then assemble everything and flash the firmware in the MCU and then you are good to go! 
+
 ### Schematics 
 <img width="1403" height="758" alt="image" src="https://github.com/user-attachments/assets/bb02de54-b7d7-45c3-8848-cff76bfa01ff" />
 
