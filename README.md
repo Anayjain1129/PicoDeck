@@ -11,8 +11,7 @@
 ### How to secure the encoder & OLED into the front holes?
 To secure/fit the encoder & OLED I have extruded more in the inner side of the bottom in which the RE & OLED can sit perfectly! and for extra fit i'll be using dry clay to make it fix.
 here's the image that shows that part! 
-<img width="1683" height="673" alt="image" src="https://github.com/user-attachments/assets/2e24a18c-50ae-4e66-858a-7ac455da7c77" />
-
+<img width="678" height="844" alt="image" src="https://github.com/user-attachments/assets/74d86e89-946f-4150-80d1-d9fce85b9c58" />
 
 
 ### Features: 
