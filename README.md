@@ -6,7 +6,14 @@
 <img width="1136" height="534" alt="Screenshot 2026-06-02 002628" src="https://github.com/user-attachments/assets/06766af5-67b3-41ba-9e5f-e501fba3f8ec" />
 
 ### Zine Page
-[![Documentation Preview](preview.png)](zine-page.pdf)
+<img width="2000" height="2799" alt="download" src="https://github.com/user-attachments/assets/b0f976bc-c312-4e52-b6b9-21066d6b3213" />
+
+### How to secure the encoder & OLED into the front holes?
+To secure/fit the encoder & OLED I have extruded more in the inner side of the bottom in which the RE & OLED can sit perfectly! and for extra fit i'll be using dry clay to make it fix.
+here's the image that shows that part! 
+<img width="1683" height="673" alt="image" src="https://github.com/user-attachments/assets/2e24a18c-50ae-4e66-858a-7ac455da7c77" />
+
+
 
 ### Features: 
 
