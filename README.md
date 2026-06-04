@@ -6,7 +6,7 @@
 <img width="1136" height="534" alt="Screenshot 2026-06-02 002628" src="https://github.com/user-attachments/assets/06766af5-67b3-41ba-9e5f-e501fba3f8ec" />
 
 ### Zine Page
-[![Documentation Preview](zine-page.png)](zine-page.pdf)
+[![Documentation Preview](preview.png)](zine-page.pdf)
 
 ### Features: 
 
