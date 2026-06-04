@@ -5,6 +5,9 @@
 <img width="999" height="708" alt="Screenshot 2026-06-02 015942" src="https://github.com/user-attachments/assets/61e7b86d-225e-4b90-a224-be88fa290f55" />
 <img width="1136" height="534" alt="Screenshot 2026-06-02 002628" src="https://github.com/user-attachments/assets/06766af5-67b3-41ba-9e5f-e501fba3f8ec" />
 
+### Zine Page
+[![Documentation Preview](zine-page.png)](zine-page.pdf)
+
 ### Features: 
 
 - EC11 Rotary Encoder - For Volume, Brightness etc
