@@ -13,6 +13,8 @@ To secure/fit the encoder & OLED I have extruded more in the inner side of the b
 here's the image that shows that part! 
 <img width="678" height="844" alt="image" src="https://github.com/user-attachments/assets/74d86e89-946f-4150-80d1-d9fce85b9c58" />
 
+### How are OLED and RE connected to PCB?
+the OLED and RE are gonna be handwired to the PCB! 
 
 ### Features: 
 
