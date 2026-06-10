@@ -1,9 +1,9 @@
 # PicoDeck
 <img width="816" height="800" alt="Screenshot 2026-06-01 163207" src="https://github.com/user-attachments/assets/07ea042d-0199-41c5-a8cc-61783a5d47b3" />
-<img width="1074" height="748" alt="Screenshot 2026-06-02 002635" src="https://github.com/user-attachments/assets/2eb6225f-ca7a-4c66-bb61-bf4710151896" />
-<img width="1060" height="745" alt="Screenshot 2026-06-02 002819" src="https://github.com/user-attachments/assets/38d53001-b7c4-456c-a284-f2d9f37b40ae" />
+<img width="1129" height="684" alt="image" src="https://github.com/user-attachments/assets/6ba369a6-8e68-479e-8181-0b1d8c085e99" />
+<img width="1119" height="648" alt="image" src="https://github.com/user-attachments/assets/cedb29d5-c318-4c8b-adc0-ee2ae141ef2e" />
 <img width="999" height="708" alt="Screenshot 2026-06-02 015942" src="https://github.com/user-attachments/assets/61e7b86d-225e-4b90-a224-be88fa290f55" />
-<img width="1136" height="534" alt="Screenshot 2026-06-02 002628" src="https://github.com/user-attachments/assets/06766af5-67b3-41ba-9e5f-e501fba3f8ec" />
+<img width="1251" height="507" alt="image" src="https://github.com/user-attachments/assets/db777fee-c3f4-4048-808e-5e752a8c5710" />
 
 ### Zine Page
 <img width="2000" height="2799" alt="download" src="https://github.com/user-attachments/assets/b0f976bc-c312-4e52-b6b9-21066d6b3213" />
