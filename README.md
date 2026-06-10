@@ -40,8 +40,8 @@ just download all the files order all the parts and then assemble everything and
 
 ### Case 
 ## Bottom
-<img width="1237" height="700" alt="image" src="https://github.com/user-attachments/assets/dbb406da-46c9-4a8d-9146-4d4e36156a85" />
-<img width="994" height="539" alt="image" src="https://github.com/user-attachments/assets/7f1c536a-bdd8-47e0-b014-07650cc2035d" />
+<img width="1352" height="753" alt="image" src="https://github.com/user-attachments/assets/6e20b631-9cef-4896-8879-f6ef607aafad" />
+<img width="1095" height="618" alt="image" src="https://github.com/user-attachments/assets/2f3379f9-cece-43b7-b597-cfd2ebed3fc7" />
 
 ## Top
 <img width="1227" height="646" alt="image" src="https://github.com/user-attachments/assets/b5f41f86-29a2-4d26-af3a-0f2b77057b07" />
@@ -56,9 +56,9 @@ just download all the files order all the parts and then assemble everything and
 
 ## Case
 <img width="3300" height="2550" alt="28c2eecb-6e06-4444-9a95-d7229e4e8b97" src="https://github.com/user-attachments/assets/c677a103-7605-4cb2-b1a6-996a58bbc383" />
-<img width="3300" height="2550" alt="4a271fa2-b142-48ca-af95-737023e7ab95" src="https://github.com/user-attachments/assets/bcc674e8-61df-4794-b8ad-13deddf86d04" />\
-<img width="3300" height="2550" alt="3cf05e57-8130-4242-a73c-b56f70226c04" src="https://github.com/user-attachments/assets/735dc3ed-d139-488e-87cc-8aead1692936" />
-<img width="1074" height="748" alt="Screenshot 2026-06-02 002635" src="https://github.com/user-attachments/assets/138ca130-9aa1-413e-a783-1244f6e24129" />
+<img width="3300" height="2550" alt="4a271fa2-b142-48ca-af95-737023e7ab95" src="https://github.com/user-attachments/assets/bcc674e8-61df-4794-b8ad-13deddf86d04" />
+<img width="2048" height="1536" alt="1fabdde6-96d8-4ecd-ac5d-f0f6807e3eb6" src="https://github.com/user-attachments/assets/6a1b525f-23e9-4f9c-8233-f9ccb444b8c1" />
+<img width="1083" height="729" alt="image" src="https://github.com/user-attachments/assets/56fae663-96ae-47e1-bf95-cb0130b4669f" />
 <img width="373" height="567" alt="Screenshot 2026-06-01 233207" src="https://github.com/user-attachments/assets/fd07242e-b892-4a79-ba57-233fd21ba779" />
 
 
