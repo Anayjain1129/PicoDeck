@@ -81,3 +81,6 @@ just download all the files order all the parts and then assemble everything and
 
 Total cost comes out to be 3,441 INR, 36.11 USD in total
 I'm asking for 40 dollars due to dollar market trend and other issues! 
+
+# DEMO VIDEO!
+https://youtube.com/shorts/a5fuF7BCCck?si=rf6i6NB_s8I_e1Sm
