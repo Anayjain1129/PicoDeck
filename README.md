@@ -5,6 +5,9 @@
 <img width="999" height="708" alt="Screenshot 2026-06-02 015942" src="https://github.com/user-attachments/assets/61e7b86d-225e-4b90-a224-be88fa290f55" />
 <img width="1251" height="507" alt="image" src="https://github.com/user-attachments/assets/db777fee-c3f4-4048-808e-5e752a8c5710" />
 
+# Physically Built
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/f38a7b69-96e6-4723-9bdf-b63a8798b18a" />
+
 ### Zine Page
 <img width="2000" height="2799" alt="download" src="https://github.com/user-attachments/assets/b0f976bc-c312-4e52-b6b9-21066d6b3213" />
 
