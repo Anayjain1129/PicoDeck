@@ -9,7 +9,8 @@
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/f38a7b69-96e6-4723-9bdf-b63a8798b18a" />
 
 ### Zine Page
-<img width="581" height="813" alt="image" src="https://github.com/user-attachments/assets/e9576d44-e802-4740-94b3-45d7cb692994" />
+<img width="585" height="816" alt="image" src="https://github.com/user-attachments/assets/a8fc9990-33da-49a8-b1e7-44dcefcae2ac" />
+
 
 
 ### How to secure the encoder & OLED into the front holes?
